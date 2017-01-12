@@ -1,7 +1,7 @@
 {
   "name": "ElectronHacks",
   "version": "0.1.0",
-  "description": "ElectronHacks application built with Electron",
+  "description": "Electron examples of application use. Built with Electron",
   "author": {
     "name": "J. A. Mitchel",
     "email": ""
@@ -9,6 +9,6 @@
   "license": "MIT",
   "main": "javascripts/main/index.js",
   "dependencies": {
-
+    
   }
 }

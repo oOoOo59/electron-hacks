@@ -1,2 +1,2 @@
 # electron-hacks
-collection of electon hub practices
+collection of electron hub practices
